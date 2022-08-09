@@ -1,4 +1,4 @@
-<div align=center> 만나서 반가워요 우리 🙇‍♂️ </div>
+<div align=center> [하루일분일초] 반갑습니다 🙇‍♂️ </div>
 
 <p>
 
