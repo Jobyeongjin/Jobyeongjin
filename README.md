@@ -1,4 +1,4 @@
-<div align=center> <하루 일분 일초> 반갑습니다 🙇‍♂️ </div>
+<div align=center> {'분': 1, '초': 1} 반갑습니다 🙇‍♂️ </div>
 
 <p>
 
