@@ -1,4 +1,4 @@
-<div align=center> [하루일분일초] 반갑습니다 🙇‍♂️ </div>
+<div align=center> <하루 일분 일초> 반갑습니다 🙇‍♂️ </div>
 
 <p>
 
