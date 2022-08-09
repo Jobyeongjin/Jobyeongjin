@@ -1,4 +1,5 @@
-<div align=center> {'분': 1, '초': 1} 반갑습니다 🙇‍♂️ </div>
+<div align=center> {'분': 1, '초': 1} </div>
+<div align=center> 반갑습니다 🙇‍♂️  </div>
 
 <p>
 
